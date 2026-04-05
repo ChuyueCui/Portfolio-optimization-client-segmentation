@@ -37,7 +37,7 @@ The goal is to align investment strategies with different client profiles based 
 
 📄 Project Materials  
 
-- 📊 Presentation: [View Slides](./portfolio-optimization_client_seg.pptx)  
+- 📊 Presentation: [View Slides](./portfolio-optimization_client_seg.pdf)  
 - 📄 Report: [View Report](./portfolio-optimization_client_seg_report.pdf)
 - 💻 Code: [View Notebook](./portfolio-optimization_client_seg.ipynb)
 
